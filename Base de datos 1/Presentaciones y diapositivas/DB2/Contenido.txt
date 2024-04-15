@@ -1,0 +1,18 @@
+IBM - DB2 UDB
+-------------
+
+Los archivos que comienzan con "Doc" contienen documentación específica del motor.
+
+Los Archivos que comienzan con "Present" contienen presentaciones de PowerPoint que 
+pueden ser utilizadas como guía en los distintos temas.
+
+Entiéndase: 
+
+Present_Intro ->  Consideraciones generales
+Present_ADM*  ->  Administración de DB2
+Doc_Administ  ->  Documentación relativa a la Administración del motor
+Doc_SQL       ->  Guía completa de SQL para DB2
+Doc_Commands  ->  Referencia de Comandos 
+Doc_Install   ->  Instalación y configuración en distintos Sist. Operat.
+Doc_Otros     ->  Glosario, Novedades de la última versión y otros doc. complementarios
+Triggers_DB2_Intro -> Introducción a triggers y ejemplos
